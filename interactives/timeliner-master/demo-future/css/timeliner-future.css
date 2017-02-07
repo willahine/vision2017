@@ -10,7 +10,7 @@ body {
 }
 .container {
   width: 940px;
-  margin-left: 450px;
+  margin-left: auto;
   margin-right: auto;
   padding: 10px;
   *zoom: 1;
