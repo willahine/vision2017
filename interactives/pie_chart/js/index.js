@@ -104,7 +104,7 @@ AmCharts.makeChart("chartdiv", {
   "colorField": "color",
   "pulledField": "pulled",
   "titles": [{
-    "text": "Click to see how each budget is spent."
+    "text": ""
   }],
 
   "export": {
