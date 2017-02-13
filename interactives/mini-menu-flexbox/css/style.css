@@ -25,6 +25,7 @@ ul li {
   width: 25%;
   display: flex;
   justify-content: center;
+  border-right: solid #47b6dd 1px;
 }
 ul a {
   text-decoration: none;
