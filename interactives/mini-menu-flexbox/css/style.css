@@ -18,6 +18,8 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-weight: 300;
+font-size: 16px;
 }
 ul li {
   width: 25%;
