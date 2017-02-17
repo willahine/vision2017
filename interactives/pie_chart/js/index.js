@@ -8,7 +8,7 @@ var types = [{
     dollar: "1,350",
     color:"#D3746C",
   }, {
-    type: "MCH ",
+    type: "Maternal and Child Health",
     percent: 9,
     dollar: "750",
     color:"#aae0f6",
@@ -19,13 +19,13 @@ var types = [{
     color:"#48a08f",
     },
          {
-    type: "FPRH",
+    type: "Family Planning and Reproductive Health",
     percent: 6,
     dollar: "524",
     color:"#f2dc7d",
     },
                {
-    type: "TB ",
+    type: "Tuberculosis",
     percent: 3,
     dollar: "236",
     color:"#999999",
@@ -37,19 +37,19 @@ var types = [{
     color: "#3A201E",
     },
                   {
-    type: "NTDs",
+    type: "Neglected Tropical Diseases",
     percent: 1,
     dollar: "100",
     color: "#874B46",
     },
              {
-    type: "Security",
+    type: "Global Health Security",
     percent: .5,
     dollar: "73",
     color:"#3A3A3A" ,
     },
            {
-    type: "Vulnerable Children",
+    type: "Orphans and Vulnerable Children",
     percent: .5,
     dollar: "22",
     },
