@@ -162,7 +162,7 @@ margin-left: 20px;
   width: 900px;
 }
 .timeline-wrapper .timeline-time::before {
-  border-top: 4px solid #747474;
+  border-top: 2px solid #747474;
   content: "";
   display: inline-block;
   height: 4px;
