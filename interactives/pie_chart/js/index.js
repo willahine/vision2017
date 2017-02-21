@@ -3,7 +3,7 @@ var selected;
 
 var types = [{
 
-    type: "Global Fund ",
+    type: "Global Fund to Fight AIDS, Tuberculosis, and Malaria",
     percent: 16,
     dollar: "1,350",
     color:"#D3746C",
@@ -91,11 +91,19 @@ function generateChartData() {
 AmCharts.makeChart("chartdiv", {
   "type": "pie",
 "theme": "light",
+"labelsEnabled": true,
+ "autoMargins": false,
+ "marginTop": 0,
+ "marginBottom": 90,
+ "marginLeft": 10,
+ "marginRight": 10,
+ "pullOutRadius": 0,
 
   "dataProvider": generateChartData(),
-  "labelText": "[[title]]: [[value]] %",
+  "labelText": "[[title]]",
+  "labelRadius": 20,
   "balloonText": "[[title]]: $[[dollar]] (in millions)",
-  "fontFamily": "museo sans",
+  "fontFamily": "Lato",
   "titleField": "type" ,
   "valueField": "percent",
   "outlineColor": "#FFFFFF",

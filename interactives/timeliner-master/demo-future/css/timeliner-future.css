@@ -172,8 +172,7 @@ margin-left: 20px;
 }
 .timeline-wrapper .timeline-time {
   cursor: none;
-  font-size: 2.8em;
-  font-weight: 400;
+  font-weight: 300;
   margin: 0 0 30px 0;
   padding: 0;
 }
@@ -184,7 +183,7 @@ margin-left: 20px;
   color: rgba(255, 255, 255, 0.85);
   display: inline-block;
   letter-spacing: 0;
-  padding: 10px 10px 5px 10px;
+  padding: 5px 5px 5px 5px;
   text-align: center;
 }
 .timeline-wrapper .timeline-time span:hover {
@@ -213,7 +212,7 @@ margin-left: 20px;
 }
 .timeline-series dt {
   clear: left;
-  font-size: 2em;
+  font-size: 1.6em;
   line-height: 1.2em;
   margin: 0 0 12px;
   text-transform: uppercase;
@@ -272,11 +271,11 @@ margin-left: 20px;
 .timeline-event-content p {
   clear: left;
   float: left;
-  font-size: 2em;
+  font-size: 1.6em;
   font-weight: 100;
-  line-height: 1.2em;
-  margin: 6px 0 10px;
-  width: 500px;
+  line-height: 1.7em;
+  margin: 6px 0 30px;
+  width: 90%;
 }
 .timeline-event-content h4 {
   clear: left;
