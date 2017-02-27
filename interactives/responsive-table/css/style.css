@@ -53,11 +53,6 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-h1 {
-  font-weight: normal;
-  letter-spacing: -1px;
-  color: #34495E;
-}
 
 .rwd-table {
   border: 2px solid #479f8e;
