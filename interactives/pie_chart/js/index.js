@@ -104,7 +104,6 @@ AmCharts.makeChart("chartdiv", {
   "labelText": "[[title]]",
   "labelRadius": 20,
   "balloonText": "[[title]]: $[[dollar]] (in millions)",
-  "fontFamily": "Lato",
   "titleField": "type" ,
   "valueField": "percent",
   "outlineColor": "#FFFFFF",
