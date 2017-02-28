@@ -37,7 +37,7 @@ var types = [{
     color: "#71ad46",
     },
                   {
-    type: "Neglected Tropical Diseases",
+    type: "Tropical Diseases",
     percent: 1,
     dollar: "100",
     color: "#255f92",
