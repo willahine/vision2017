@@ -3,7 +3,7 @@ var selected;
 
 var types = [{
 
-    type: "Global Fund to Fight AIDS, Tuberculosis, and Malaria",
+    type: "Global Fund",
     percent: 16,
     dollar: "1,350",
     color:"#88c5d8",
