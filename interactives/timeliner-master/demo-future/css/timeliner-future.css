@@ -170,7 +170,7 @@ margin-left: 20px;
   width: 24px;
 }
 .timeline-wrapper .timeline-time {
-  cursor: none;
+  cursor: pointer;
   font-weight: 300;
   margin: 0 0 30px 0;
   padding: 0;
