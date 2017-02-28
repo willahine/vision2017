@@ -6,58 +6,59 @@ var types = [{
     type: "Global Fund to Fight AIDS, Tuberculosis, and Malaria",
     percent: 16,
     dollar: "1,350",
-    color:"#D3746C",
+    color:"#88c5d8",
   }, {
     type: "Maternal and Child Health",
     percent: 9,
     dollar: "750",
-    color:"#aae0f6",
+    color:"#48a08f",
   }, {
     type: "Malaria",
     percent: 8,
     dollar: "674",
-    color:"#48a08f",
+    color:"#a5a5a5",
     },
          {
     type: "Family Planning and Reproductive Health",
     percent: 6,
     dollar: "524",
-    color:"#f2dc7d",
+    color:"#dbc466",
     },
                {
     type: "Tuberculosis",
     percent: 3,
     dollar: "236",
-    color:"#999999",
+    color:"#47b6dd",
     },
              {
     type: "Nutrition",
     percent: 1,
     dollar: "125",
-    color: "#3A201E",
+    color: "#71ad46",
     },
                   {
     type: "Neglected Tropical Diseases",
     percent: 1,
     dollar: "100",
-    color: "#874B46",
+    color: "#255f92",
     },
              {
     type: "Global Health Security",
     percent: .5,
     dollar: "73",
-    color:"#3A3A3A" ,
+    color:"#b260a6" ,
     },
            {
     type: "Orphans and Vulnerable Children",
     percent: .5,
     dollar: "22",
+    color:"#be1e2d",
     },
           {
     type: "HIV / AIDS",
     percent: 55,
     dollar: "4,650",
-      color:"#47b6dd",
+      color:"#d3746c",
 
 
 }];
