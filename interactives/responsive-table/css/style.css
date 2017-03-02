@@ -1,12 +1,13 @@
 @import https://fonts.googleapis.com/css?family=Open+Sans ;
+.FA {
+  font-weight:bold;
+}
+tr:nth-child(odd){background:#47b6dd}
 .rwd-table {
   margin: 1em 0;
   min-width: 300px;
 }
-.rwd-table tr {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-}
+
 .rwd-table th {
   display: none;
 }
@@ -25,6 +26,7 @@
   width: 6.5em;
   display: inline-block;
 }
+
 @media (min-width: 480px) {
   .rwd-table td:before {
     display: none;
@@ -55,15 +57,11 @@ body {
 
 
 .rwd-table {
-  border: 2px solid #479f8e;
   background: #fff;
   color: #444;
-  border-radius: .4em;
   overflow: hidden;
 }
-.rwd-table tr {
-  border-color: #000;
-}
+
 .rwd-table th, .rwd-table td {
   margin: .5em 1em;
 }
@@ -73,5 +71,10 @@ body {
   }
 }
 .rwd-table th, .rwd-table td:before {
-  color: #47b6dd;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+@media (max-width: 800px){
+tr:nth-child(odd), tr:nth-child(even) {background:#47b6dd}
 }
